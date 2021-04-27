@@ -18,6 +18,7 @@ ymin = -2
 ymax = 2
 ypaso = 0.5
 y_subpaso = 2
+
 # ******************************************************************************
 # calculos para setear ejes
 majorx = int((xmax - xmin) / xpaso) + 1
